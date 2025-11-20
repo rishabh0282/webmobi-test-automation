@@ -1,0 +1,14 @@
+{
+    "name": "events-webmobi-qa",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "node ./tests/create-event.spec.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "playwright": "^1.40.0"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.56.1"
+    }
+}
