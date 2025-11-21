@@ -7,7 +7,7 @@ dotenv.config();
 test('Accessing dashboard after logout redirects to login', async ({ page }) => {
   const { BASE_URL, LOGIN_EMAIL2, LOGIN_PASSWORD } = process.env;
 
-  await login(page, BASE_URL, LOGIN_EMAIL, LOGIN_PASSWORD);
+  await login(page, BASE_URL, LOGIN_EMAIL2, LOGIN_PASSWORD);
   await logout(page);
 
   // Try to access dashboard directly
