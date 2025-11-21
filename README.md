@@ -9,7 +9,7 @@ The latest test execution report is automatically published via GitHub Actions a
 
 - [View Live Report](https://rishabh0282.github.io/webmobi-test-automation/)
 
-[![Playwright Tests](https://github.com/rishabh0282/playwright-qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/rishabh0282/playwright-qa-automation/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/rishabh0282/webmobi-test-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/rishabh0282/webmobi-test-automation/actions/workflows/playwright.yml)
 
 ---
 
