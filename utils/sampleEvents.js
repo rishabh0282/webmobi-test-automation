@@ -1,12 +1,9 @@
-// utils/sampleEvents.js
-
 const sampleEvents = [
   "Visionary Horizons: Exploring Tomorrow's Breakthroughs in Science & Tech",
   "AI Frontiers: Charting the Path to Intelligent Innovation",
   "Founder's Circle: A Night of Ideas & Impact",
   "Cloud Catalyst: Accelerate Your Journey to Scalable Success",
   "Innovators Unite: Pitch, Connect & Collaborate",
-  "FutureScape: Navigating Trends in Digital Transformation",
   "Ignite Minds: A Fireside Dialogue with Industry Leaders",
   "Tech Odyssey: Mapping the Next Era of Smart Solutions",
   "Startup Spark: Showcasing Bold Ideas & Bright Futures",
