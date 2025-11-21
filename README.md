@@ -2,6 +2,15 @@
 
 This repository contains automated end‑to‑end tests built with [Playwright](https://playwright.dev/) to validate event flows in a web application. It covers authentication, session management, and event creation, with GitHub Actions integration for continuous testing.
 
+
+## 📊 Live Playwright Report
+
+The latest test execution report is automatically published via GitHub Actions and GitHub Pages.
+
+- [View Live Report](https://rishabh0282.github.io/playwright-qa-automation/)
+
+[![Playwright Tests](https://github.com/rishabh0282/playwright-qa-automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/rishabh0282/playwright-qa-automation/actions/workflows/playwright.yml)
+
 ---
 
 ## Features
