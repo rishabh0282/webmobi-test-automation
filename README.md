@@ -30,3 +30,14 @@ npx playwright install --with-deps
 
 # Run tests
 npx playwright test
+
+---
+
+
+## 🐞 Known Issues (Summary)
+
+- Delete Event not persisting in UI despite backend `204` response  
+- Heading locator mismatch (accessibility roles missing)  
+- Credits exceed quota (63/50, automation still works)  
+
+👉 Full details in [Test-Report.md](./Test-Report.md)
