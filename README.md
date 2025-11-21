@@ -1,4 +1,4 @@
-# Playwright Test Automation Suite
+# A Test Automation Suite using Playwright and Node.js
 
 This repository contains automated end‑to‑end tests built with [Playwright](https://playwright.dev/) to validate event flows in a web application. It covers authentication, session management, and event creation, with GitHub Actions integration for continuous testing.
 
