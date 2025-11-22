@@ -2,6 +2,12 @@
 
 Automated testing agent built with Playwright that logs in to events.webmobi.com, creates events, and validates the results.
 
+# Events WebMobi Automation Agent
+
+[![CI](https://github.com/rishabh0282/webmobi-test-automation/actions/workflows/ci.yml/badge.svg)](https://github.com/rishabh0282/webmobi-test-automation/actions/workflows/ci.yml)
+[![GitHub Pages](https://img.shields.io/badge/Pages-Live_Report-blue?logo=github)](https://rishabh0282.github.io/webmobi-test-automation/)
+
+
 ## Features
 
 - ✅ Automated authentication with environment variables
