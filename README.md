@@ -15,13 +15,14 @@ Automated testing agent built with Playwright that logs in to events.webmobi.com
 - ✅ CI/CD integration with GitHub Actions
 - ✅ GitHub Pages report publishing
 
-## Bug Report (Summary)
+## Known Issues (Summary)
 
 - Delete Event not persisting in UI despite backend `204` response  
 - Heading locator mismatch (accessibility roles missing)  
 - Credits exceed quota (63/50, automation still works)  
 
-Full details in [Test-Report.md](./Test-Report.md)
+Full details in [Issues-Test-Report.md](./Issues-Test-Report.md)
+
 
 
 ## Prerequisites
