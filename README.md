@@ -24,8 +24,8 @@ Automated testing agent built with Playwright that logs in to events.webmobi.com
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd project1
+   git clone https://github.com/rishabh0282/webmobi-test-automation.git
+   cd webmobi-test-automation
    ```
 
 2. **Install dependencies**
