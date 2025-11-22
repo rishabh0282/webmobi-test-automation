@@ -21,7 +21,7 @@ Automated testing agent built with Playwright that logs in to events.webmobi.com
 - Heading locator mismatch (accessibility roles missing)  
 - Credits exceed quota (63/50, automation still works)  
 
-Full details in [Issues-Test-Report](./main/Issues-Test-Report.md)
+Full details in [Issues-Test-Report](./Issues-Test-Report.md)
 
 
 
